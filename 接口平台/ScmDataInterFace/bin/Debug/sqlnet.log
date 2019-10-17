@@ -1,0 +1,342 @@
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=local4)(CID=(PROGRAM=D:\设计文档\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 01-6月 -2012 14:29:52
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=local4)(CID=(PROGRAM=D:\设计文档\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 30-6月 -2012 16:52:52
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=local4)(CID=(PROGRAM=D:\设计文档\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-9月 -2012 14:33:04
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=local4)(CID=(PROGRAM=D:\设计文档\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-9月 -2012 14:34:00
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=local4)(CID=(PROGRAM=D:\设计文档\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-9月 -2012 15:26:28
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=local4)(CID=(PROGRAM=D:\设计文档\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-9月 -2012 15:33:10
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=local4)(CID=(PROGRAM=D:\设计文档\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-9月 -2012 15:34:56
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=local4)(CID=(PROGRAM=D:\设计文档\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-9月 -2012 15:36:33
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=local4)(CID=(PROGRAM=D:\设计文档\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-9月 -2012 15:44:15
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=local4)(CID=(PROGRAM=D:\设计文档\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 07-9月 -2012 09:38:04
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=local4)(CID=(PROGRAM=D:\设计文档\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 07-9月 -2012 17:17:34
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS：拒绝连接
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.0.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=D:\接口\北京联合大学\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 22-11月-2012 19:37:51
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12547, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=202.199.155.17)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=JWGL)(CID=(PROGRAM=D:\接口\大连大学\接口软件\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-12月-2012 14:33:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12547
+    TNS-12547: TNS: 丢失连接
+    ns secondary err code: 12560
+    nt main err code: 517
+    TNS-00517: 丢失连接
+    nt secondary err code: 54
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12637, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=202.199.155.17)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=JWGL)(CID=(PROGRAM=D:\接口\大连大学\接口软件\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-12月-2012 15:06:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12637
+    TNS-12637: 包接收失败
+    ns secondary err code: 12547
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12547, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=202.199.155.17)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=JWGL)(CID=(PROGRAM=D:\接口\大连大学\接口软件\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-12月-2012 15:07:09
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12547
+    TNS-12547: TNS: 丢失连接
+    ns secondary err code: 12560
+    nt main err code: 517
+    TNS-00517: 丢失连接
+    nt secondary err code: 54
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12637, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=202.199.155.17)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=JWGL)(CID=(PROGRAM=D:\接口\大连大学\接口软件\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-12月-2012 15:08:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12637
+    TNS-12637: 包接收失败
+    ns secondary err code: 12537
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12637, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=202.199.155.17)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=JWGL)(CID=(PROGRAM=D:\接口\大连大学\接口软件\ScmDataInterFace\ScmDataInterFace\bin\Debug\ScmDataInterFace.vshost.exe)(HOST=PC-201008180912)(USER=Administrator))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 17-12月-2012 15:46:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12637
+    TNS-12637: 包接收失败
+    ns secondary err code: 12547
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 27-12月-2012 16:29:19
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS: 操作超时
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 操作超时
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>

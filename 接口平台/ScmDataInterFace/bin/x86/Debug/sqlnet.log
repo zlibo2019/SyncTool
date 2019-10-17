@@ -1,0 +1,19 @@
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=orcl.zlibo.com)(CID=(PROGRAM=D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\bin\x86\Debug\ScmDataInterFace.exe)(HOST=ZLIBO-PC)(USER=zlibo)))(ADDRESS=(PROTOCOL=TCP)(HOST=216.8.179.23)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-11月-2014 10:45:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: 无监听程序
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: 无监听程序
+    nt secondary err code: 61
+    nt OS err code: 0

@@ -1,0 +1,322 @@
+8:26:26  ------------任务开始，【任务编号】:20121116101315----------↓
+8:26:31  获取对方原始数据成功，【执行语句】:select XKKH,KCMC,KKXY,RS,SJXS,KSFS,ZHXS,SYXS,QSJSZ,KKX,SKSJ,XQ,XY,SKDD,ZYDM,JKXS,XQYQ,BJMC,QSZ,ZYFX,KCXZ,JSZGH,JSXM,ZYMC,KHFS,KCLB,KCDM,JSZ,JXBMC,XN,ZXS,XF from JXRW,【数据条数】:2000
+8:26:50  向我方插入新数据成功，【数据行数】:2000
+8:27:38  【数据库操作异常】:向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+2012201300000001
+14
+8:27:38  我方临时表更新正式表失败，【执行语句】:begin 
+exec sp_update_kcdm;
+exec sp_create_tkq_rank_Transit;
+exec sp_update_TEACH_SUB;
+exec sp_update_jxrw;
+end;
+8:27:38  ---------任务【失败】结束，【任务编号】:20121116101315-------↑
+8:27:38  
+8:27:44  ------------任务开始，【任务编号】:20121116100838----------↓
+8:27:44  获取对方原始数据成功，【执行语句】:select XKKH,KCMC,KCDM from KCDM,【数据条数】:2000
+8:27:45  向我方插入新数据成功，【数据行数】:2000
+8:27:45  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_kcdm;
+end;
+8:27:45  获取对方原始数据成功，【执行语句】:select ZYMC,JXBMC,XN,XY,XZB,XKKH,XM,XQ,XH,KCMC from LJB_XS,【数据条数】:2000
+8:27:46  向我方插入新数据成功，【数据行数】:2000
+8:27:47  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_ljb_xs;
+exec sp_update_ljb_xs_user;
+end;
+8:27:47  获取对方原始数据成功，【执行语句】:select XQ,XH,XKKH,XN,XM from XKXX,【数据条数】:2000
+8:27:48  向我方插入新数据成功，【数据行数】:2000
+8:27:48  ---------任务【成功】结束，【任务编号】:20121116100838-------↑
+8:27:48  
+11:44:17  ------------任务开始，【任务编号】:20121116101315----------↓
+11:44:17  获取对方原始数据成功，【执行语句】:select XKKH,KCMC,KKXY,RS,SJXS,KSFS,ZHXS,SYXS,QSJSZ,KKX,SKSJ,XQ,XY,SKDD,ZYDM,JKXS,XQYQ,BJMC,QSZ,ZYFX,KCXZ,JSZGH,JSXM,ZYMC,KHFS,KCLB,KCDM,JSZ,JXBMC,XN,ZXS,XF from JXRW,【数据条数】:2000
+11:44:34  向我方插入新数据成功，【数据行数】:2000
+11:45:02  【数据库操作异常】:向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+2012201300000001
+0
+11:45:02  我方临时表更新正式表失败，【执行语句】:begin 
+exec sp_update_kcdm;
+exec sp_create_tkq_rank_Transit;
+exec sp_update_TEACH_SUB;
+exec sp_update_jxrw;
+end;
+11:45:02  ---------任务【失败】结束，【任务编号】:20121116101315-------↑
+11:45:02  
+11:45:54  ------------任务开始，【任务编号】:20121116100838----------↓
+11:45:55  获取对方原始数据成功，【执行语句】:select XKKH,KCMC,KCDM from KCDM,【数据条数】:2000
+11:45:55  向我方插入新数据成功，【数据行数】:2000
+11:45:55  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_kcdm;
+end;
+11:45:55  获取对方原始数据成功，【执行语句】:select ZYMC,JXBMC,XN,XY,XZB,XKKH,XM,XQ,XH,KCMC from LJB_XS,【数据条数】:2000
+11:45:56  向我方插入新数据成功，【数据行数】:2000
+11:45:57  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_ljb_xs;
+exec sp_update_ljb_xs_user;
+end;
+11:45:57  获取对方原始数据成功，【执行语句】:select XQ,XH,XKKH,XN,XM from XKXX,【数据条数】:2000
+11:45:58  向我方插入新数据成功，【数据行数】:2000
+11:45:58  ---------任务【成功】结束，【任务编号】:20121116100838-------↑
+11:45:58  
+13:47:52  ------------任务开始，【任务编号】:20121105105205----------↓
+13:47:52  获取对方原始数据成功，【执行语句】:select BMFQID,BMMC,BMDM from XY_BMXBM,【数据条数】:589
+13:47:53  向我方插入新数据成功，【数据行数】:589
+13:47:55  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_dep_columns;
+exec updateDep;
+exec update_dt_user_dep;
+end;
+13:47:55  获取对方原始数据成功，【执行语句】:select XQMC,XQDM from XQDM,【数据条数】:16
+13:47:55  向我方插入新数据成功，【数据行数】:16
+13:47:56  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_ac_dep_columns;
+exec updateAC_Dep;
+exec updateAC_Dep_xydm;
+end;
+13:47:56  获取对方原始数据成功，【执行语句】:select XYDM,XYMC from XYDM,【数据条数】:20
+13:47:56  向我方插入新数据成功，【数据行数】:20
+13:47:57  获取对方原始数据成功，【执行语句】:select XN,N,R,XQ,NYR,Y,XQJ,DJZ from XLB,【数据条数】:1414
+13:47:57  向我方插入新数据成功，【数据行数】:1414
+13:47:58  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_xlb
+exec sp_update_SHID;
+end;
+13:47:59  获取对方原始数据成功，【执行语句】:select ZYDM,SSXYDM,ZYMC,ZYLB,XKLB,XYMC,XZ,XW,CC from ZYDM,【数据条数】:279
+13:47:59  向我方插入新数据成功，【数据行数】:279
+13:47:59  获取对方原始数据成功，【执行语句】:select BJDM,'',NJ,XYDM,SFBY,BJMC,XYMC,XZ,SSZYDM,CC from XY_BJ,【数据条数】:1423
+13:48:00  向我方插入新数据成功，【数据行数】:1423
+13:48:02  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_dep_columns;
+exec updateDep_Class;
+exec update_dt_user_dep;
+end;
+13:48:02  获取对方原始数据成功，【执行语句】:select LH,JSLB,CH,JSBH,XQDM,ZWS,JSMC,FH from JSDM,【数据条数】:1217
+13:48:03  向我方插入新数据成功，【数据行数】:1217
+13:48:04  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_jsdm;
+end;
+13:48:05  获取对方原始数据成功，【执行语句】:select XM,NJ,XZ,XY,XB,XH,XJZT,XL,XZB,ZYMC,CARDID from XY_XSXX,【数据条数】:26709
+13:48:20  向我方插入新数据成功，【数据行数】:26709
+13:48:22  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_xsxx;
+end;
+13:48:22  获取对方原始数据成功，【执行语句】:select ZGH,BMDM,XM,XYMC,BMMC,XB,CARDID from XY_JGXX,【数据条数】:2000
+13:48:23  向我方插入新数据成功，【数据行数】:2000
+13:48:23  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_jgxx;
+end;
+13:48:23  ---------任务【成功】结束，【任务编号】:20121105105205-------↑
+13:48:23  
+13:48:30  ------------任务开始，【任务编号】:20121116100838----------↓
+13:48:30  获取对方原始数据成功，【执行语句】:select XKKH,KCMC,KCDM from KCDM,【数据条数】:2000
+13:48:31  向我方插入新数据成功，【数据行数】:2000
+13:48:31  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_kcdm;
+end;
+13:48:31  获取对方原始数据成功，【执行语句】:select ZYMC,JXBMC,XN,XY,XZB,XKKH,XM,XQ,XH,KCMC from LJB_XS,【数据条数】:2000
+13:48:32  向我方插入新数据成功，【数据行数】:2000
+13:48:33  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_ljb_xs;
+exec sp_update_ljb_xs_user;
+end;
+13:48:33  获取对方原始数据成功，【执行语句】:select XQ,XH,XKKH,XN,XM from XKXX,【数据条数】:2000
+13:48:33  向我方插入新数据成功，【数据行数】:2000
+13:48:33  ---------任务【成功】结束，【任务编号】:20121116100838-------↑
+13:48:33  
+13:48:36  ------------任务开始，【任务编号】:20121116101315----------↓
+13:48:36  获取对方原始数据成功，【执行语句】:select XKKH,KCMC,KKXY,RS,SJXS,KSFS,ZHXS,SYXS,QSJSZ,KKX,SKSJ,XQ,XY,SKDD,ZYDM,JKXS,XQYQ,BJMC,QSZ,ZYFX,KCXZ,JSZGH,JSXM,ZYMC,KHFS,KCLB,KCDM,JSZ,JXBMC,XN,ZXS,XF from JXRW,【数据条数】:2000
+13:48:53  向我方插入新数据成功，【数据行数】:2000
+13:49:21  【数据库操作异常】:向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+向 substring 函数传递了无效的 length 参数。
+2012201300000001
+391
+13:49:21  我方临时表更新正式表失败，【执行语句】:begin 
+exec sp_update_kcdm;
+exec sp_create_tkq_rank_Transit;
+exec sp_update_TEACH_SUB;
+exec sp_update_jxrw;
+end;
+13:49:21  ---------任务【失败】结束，【任务编号】:20121116101315-------↑
+13:49:21  

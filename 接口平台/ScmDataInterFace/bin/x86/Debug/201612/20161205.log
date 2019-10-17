@@ -1,0 +1,164 @@
+2016-12-05 17:17:01  开始调度
+2016-12-05 17:20:20  开始调度
+2016-12-05 17:26:10  开始调度
+2016-12-05 17:26:11  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:26:11  任务开始
+2016-12-05 17:26:11  数据库操作异常System.Data.OracleClient 需要 Oracle 客户端软件 8.1.7 或更高版本。
+2016-12-05 17:26:11  get data errorselect sno as XH from v_pic
+2016-12-05 17:26:11  同步照片出错或没有照片数据！
+2016-12-05 17:26:11  【失败】
+2016-12-05 17:26:12 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:26:13 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:26:14 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:26:15 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:26:16 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:26:17 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:26:18 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:26:19 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:26:26  【】任务后期处理失败10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}
+2016-12-05 17:26:27  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:26:27  任务开始
+2016-12-05 17:26:27  数据库操作异常System.Data.OracleClient 需要 Oracle 客户端软件 8.1.7 或更高版本。
+2016-12-05 17:26:27  get data errorselect sno as XH from v_pic
+2016-12-05 17:26:27  同步照片出错或没有照片数据！
+2016-12-05 17:26:27  【失败】
+2016-12-05 17:26:27  【】任务后期处理失败10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}
+2016-12-05 17:26:27  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:26:27  任务开始
+2016-12-05 17:26:27  数据库操作异常System.Data.OracleClient 需要 Oracle 客户端软件 8.1.7 或更高版本。
+2016-12-05 17:26:27  get data errorselect sno as XH from v_pic
+2016-12-05 17:26:27  同步照片出错或没有照片数据！
+2016-12-05 17:26:27  【失败】
+2016-12-05 17:26:27  【】任务后期处理失败10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}
+2016-12-05 17:26:27  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:26:27  任务开始
+2016-12-05 17:26:28  数据库操作异常System.Data.OracleClient 需要 Oracle 客户端软件 8.1.7 或更高版本。
+2016-12-05 17:26:28  get data errorselect sno as XH from v_pic
+2016-12-05 17:26:28  同步照片出错或没有照片数据！
+2016-12-05 17:26:28  【失败】
+2016-12-05 17:26:28  【】任务后期处理失败10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}
+2016-12-05 17:26:28  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:26:28  任务开始
+2016-12-05 17:26:29  数据库操作异常System.Data.OracleClient 需要 Oracle 客户端软件 8.1.7 或更高版本。
+2016-12-05 17:26:29  get data errorselect sno as XH from v_pic
+2016-12-05 17:26:29  同步照片出错或没有照片数据！
+2016-12-05 17:26:29  【失败】
+2016-12-05 17:26:29  【】任务后期处理失败10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}
+2016-12-05 17:26:29  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:26:29  任务开始
+2016-12-05 17:26:30  数据库操作异常System.Data.OracleClient 需要 Oracle 客户端软件 8.1.7 或更高版本。
+2016-12-05 17:26:30  get data errorselect sno as XH from v_pic
+2016-12-05 17:26:30  同步照片出错或没有照片数据！
+2016-12-05 17:26:30  【失败】
+2016-12-05 17:26:30  【】任务后期处理失败10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}
+2016-12-05 17:26:31 同步人员 任务开始
+2016-12-05 17:26:31 同步人员 scm一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_user') and type = 'U') drop table tmp_dt_user create table tmp_dt_user (user_serial varchar(50),user_no nvarchar(20),user_lname nvarchar(50),user_fname nvarchar(50),dep_no varchar(50),user_dep int,user_depname nvarchar(50),user_workday datetime,user_duty nvarchar(20),user_card nvarchar(50),user_finger nvarchar(10),user_password varchar(20),pwd_begin datetime,pwd_end datetime,user_type smallint,pact_begin datetime,pact_end datetime,user_level int,user_photo int,user_sex nvarchar(8),user_nation nvarchar(20),user_xueli nvarchar(20),user_native nvarchar(20),user_birthday datetime,user_id nvarchar(30),user_post nvarchar(20),user_linkman nvarchar(50),user_telephone nvarchar(30),user_address nvarchar(50),user_email nvarchar(50),user_1 nvarchar(20),user_2 nvarchar(50),user_bz nvarchar(200),kq_rule varchar(20),kq_taoban nvarchar(500),kq_tiaoxiu int,xf_time datetime,xf_jiange int,xf_je int,user_sj datetime,user_rank nvarchar(50),gly_img int,user_ac int,dep_no_add varchar(300),zh bigint,user_role varchar(50),role_name varchar(50),card_state int,user_lx int);
+2016-12-05 17:26:31  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:26:31  任务开始
+2016-12-05 17:26:31  数据库操作异常System.Data.OracleClient 需要 Oracle 客户端软件 8.1.7 或更高版本。
+2016-12-05 17:26:31  get data errorselect sno as XH from v_pic
+2016-12-05 17:26:31  同步照片出错或没有照片数据！
+2016-12-05 17:26:31  【失败】
+2016-12-05 17:26:31  【】任务后期处理失败10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}
+2016-12-05 17:26:31  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:26:32  任务开始
+2016-12-05 17:26:32  数据库操作异常System.Data.OracleClient 需要 Oracle 客户端软件 8.1.7 或更高版本。
+2016-12-05 17:26:32  get data errorselect sno as XH from v_pic
+2016-12-05 17:26:32  同步照片出错或没有照片数据！
+2016-12-05 17:26:32  【失败】
+2016-12-05 17:26:32 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:26:33 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:26:49  【】任务后期处理失败10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}
+2016-12-05 17:27:23  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:27:23  任务开始
+2016-12-05 17:27:23  数据库操作异常System.Data.OracleClient 需要 Oracle 客户端软件 8.1.7 或更高版本。
+2016-12-05 17:27:23  get data errorselect sno as XH from v_pic
+2016-12-05 17:27:23  同步照片出错或没有照片数据！
+2016-12-05 17:27:23  【失败】
+2016-12-05 17:27:23 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:24 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:25 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:26 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:27 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:28 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:29 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:30 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:31 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:32 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:33 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:34 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:27:35 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:28:26  【】任务后期处理失败10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}
+2016-12-05 17:28:27  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:28:27  任务开始
+2016-12-05 17:28:27  数据库操作异常System.Data.OracleClient 需要 Oracle 客户端软件 8.1.7 或更高版本。
+2016-12-05 17:28:27  get data errorselect sno as XH from v_pic
+2016-12-05 17:28:27  同步照片出错或没有照片数据！
+2016-12-05 17:28:27  【失败】
+2016-12-05 17:28:27 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:28:28 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:28:29 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:28:30 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:28:31 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:28:32 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:28:33 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:28:54  【】任务后期处理失败10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}
+2016-12-05 17:28:55 同步人员 任务开始
+2016-12-05 17:28:59 同步人员 scm一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_user') and type = 'U') drop table tmp_dt_user create table tmp_dt_user (user_serial varchar(50),user_no nvarchar(20),user_lname nvarchar(50),user_fname nvarchar(50),dep_no varchar(50),user_dep int,user_depname nvarchar(50),user_workday datetime,user_duty nvarchar(20),user_card nvarchar(50),user_finger nvarchar(10),user_password varchar(20),pwd_begin datetime,pwd_end datetime,user_type smallint,pact_begin datetime,pact_end datetime,user_level int,user_photo int,user_sex nvarchar(8),user_nation nvarchar(20),user_xueli nvarchar(20),user_native nvarchar(20),user_birthday datetime,user_id nvarchar(30),user_post nvarchar(20),user_linkman nvarchar(50),user_telephone nvarchar(30),user_address nvarchar(50),user_email nvarchar(50),user_1 nvarchar(20),user_2 nvarchar(50),user_bz nvarchar(200),kq_rule varchar(20),kq_taoban nvarchar(500),kq_tiaoxiu int,xf_time datetime,xf_jiange int,xf_je int,user_sj datetime,user_rank nvarchar(50),gly_img int,user_ac int,dep_no_add varchar(300),zh bigint,user_role varchar(50),role_name varchar(50),card_state int,user_lx int);
+2016-12-05 17:28:59 同步人员 任务开始
+2016-12-05 17:30:01 同步人员 scm一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_user') and type = 'U') drop table tmp_dt_user create table tmp_dt_user (user_serial varchar(50),user_no nvarchar(20),user_lname nvarchar(50),user_fname nvarchar(50),dep_no varchar(50),user_dep int,user_depname nvarchar(50),user_workday datetime,user_duty nvarchar(20),user_card nvarchar(50),user_finger nvarchar(10),user_password varchar(20),pwd_begin datetime,pwd_end datetime,user_type smallint,pact_begin datetime,pact_end datetime,user_level int,user_photo int,user_sex nvarchar(8),user_nation nvarchar(20),user_xueli nvarchar(20),user_native nvarchar(20),user_birthday datetime,user_id nvarchar(30),user_post nvarchar(20),user_linkman nvarchar(50),user_telephone nvarchar(30),user_address nvarchar(50),user_email nvarchar(50),user_1 nvarchar(20),user_2 nvarchar(50),user_bz nvarchar(200),kq_rule varchar(20),kq_taoban nvarchar(500),kq_tiaoxiu int,xf_time datetime,xf_jiange int,xf_je int,user_sj datetime,user_rank nvarchar(50),gly_img int,user_ac int,dep_no_add varchar(300),zh bigint,user_role varchar(50),role_name varchar(50),card_state int,user_lx int);
+2016-12-05 17:30:01 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:30:02  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:02  不存在该任务
+2016-12-05 17:30:02  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:02  不存在该任务
+2016-12-05 17:30:03  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:03  不存在该任务
+2016-12-05 17:30:03  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:03  不存在该任务
+2016-12-05 17:30:04  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:04  不存在该任务
+2016-12-05 17:30:09  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:09 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:30:09  不存在该任务
+2016-12-05 17:30:10 同步照片 【同步照片】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2016-12-05 17:30:10  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:10  不存在该任务
+2016-12-05 17:30:10  不存在该任务
+2016-12-05 17:30:11  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:11  不存在该任务
+2016-12-05 17:30:11  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:11  不存在该任务
+2016-12-05 17:30:12  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:12  不存在该任务
+2016-12-05 17:30:13  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:13  不存在该任务
+2016-12-05 17:30:14  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:14  不存在该任务
+2016-12-05 17:30:15  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:16  不存在该任务
+2016-12-05 17:30:22  数据库操作异常违反并发性: UpdateCommand 影响了预期 1 条记录中的 0 条。
+2016-12-05 17:30:39  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:39  不存在该任务
+2016-12-05 17:30:39  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:39  不存在该任务
+2016-12-05 17:30:40  不存在该任务
+2016-12-05 17:30:40  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:40  不存在该任务
+2016-12-05 17:30:41  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:41  不存在该任务
+2016-12-05 17:30:42  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:42  不存在该任务
+2016-12-05 17:30:43  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:43  不存在该任务
+2016-12-05 17:30:44  数据库操作异常语法错误 (操作符丢失) 在查询表达式 'command = '10000000000000{,}insert into jreal_update_1(jdev_bh,jdodata)values('0010001',1073741824){,}True{,}'' 中。
+2016-12-05 17:30:44  不存在该任务
+2016-12-05 17:30:45  停止调度
+2016-12-05 17:30:48  开始调度
+2016-12-05 17:30:48  停止调度
+2016-12-05 17:31:25  数据库操作异常违反并发性: UpdateCommand 影响了预期 1 条记录中的 0 条。
+2016-12-05 17:31:59  数据库操作异常违反并发性: UpdateCommand 影响了预期 1 条记录中的 0 条。
+2016-12-05 17:32:11  数据库操作异常违反并发性: UpdateCommand 影响了预期 1 条记录中的 0 条。
+2016-12-05 17:32:37  数据库操作异常违反并发性: UpdateCommand 影响了预期 1 条记录中的 0 条。
+2016-12-05 17:33:01  数据库操作异常违反并发性: UpdateCommand 影响了预期 1 条记录中的 0 条。
+2016-12-05 17:38:26  数据库操作异常违反并发性: UpdateCommand 影响了预期 1 条记录中的 0 条。

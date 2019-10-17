@@ -1,0 +1,154 @@
+8:47:23  启动调度！
+10:16:10  启动调度！
+10:16:29  ------------任务开始，【任务编号】:20121105105205----------↓
+10:16:36  获取对方原始数据成功，【执行语句】:select XM,NJ,XZ,XY,XB,XH,XJZT,XL,XZB,ZYMC from XY_XSXX,【数据条数】:26709
+10:16:54  向我方插入新数据成功，【数据行数】:26709
+10:16:59  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_xsxx;
+end;
+10:17:00  获取对方原始数据成功，【执行语句】:select ZGH,BMDM,XM,XYMC,BMMC,XB from XY_JGXX,【数据条数】:2000
+10:17:00  向我方插入新数据成功，【数据行数】:2000
+10:17:01  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_jgxx;
+end;
+10:17:01  获取对方原始数据成功，【执行语句】:select BMFQID,BMMC,BMDM from XY_BMXBM,【数据条数】:589
+10:17:01  向我方插入新数据成功，【数据行数】:589
+10:17:03  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_dep_columns;
+exec updateDep;
+exec update_dt_user_dep;
+end;
+10:17:03  获取对方原始数据成功，【执行语句】:select XQMC,XQDM from XQDM,【数据条数】:16
+10:17:03  向我方插入新数据成功，【数据行数】:16
+10:17:03  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_ac_dep_columns;
+exec updateAC_Dep;
+exec updateAC_Dep_xydm;
+end;
+10:17:03  获取对方原始数据成功，【执行语句】:select XYDM,XYMC from XYDM,【数据条数】:20
+10:17:03  向我方插入新数据成功，【数据行数】:20
+10:17:04  获取对方原始数据成功，【执行语句】:select XN,N,R,XQ,NYR,Y,XQJ,DJZ from XLB,【数据条数】:1414
+10:17:04  向我方插入新数据成功，【数据行数】:1414
+10:17:06  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_xlb
+exec sp_update_SHID;
+end;
+10:17:06  获取对方原始数据成功，【执行语句】:select ZYDM,SSXYDM,ZYMC,ZYLB,XKLB,XYMC,XZ,XW,CC from ZYDM,【数据条数】:279
+10:17:06  向我方插入新数据成功，【数据行数】:279
+10:17:06  获取对方原始数据成功，【执行语句】:select BJDM,'',NJ,XYDM,SFBY,BJMC,XYMC,XZ,SSZYDM,CC from XY_BJ,【数据条数】:1423
+10:17:07  向我方插入新数据成功，【数据行数】:1423
+10:17:08  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_dep_columns;
+exec updateDep_Class;
+exec update_dt_user_dep;
+end;
+10:17:08  获取对方原始数据成功，【执行语句】:select LH,JSLB,CH,JSBH,XQDM,ZWS,JSMC,FH from JSDM,【数据条数】:1217
+10:17:09  向我方插入新数据成功，【数据行数】:1217
+10:17:10  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_jsdm;
+end;
+10:17:10  ---------任务【成功】结束，【任务编号】:20121105105205-------↑
+10:17:10  
+10:17:36  ------------任务开始，【任务编号】:20121105105205----------↓
+10:17:37  获取对方原始数据成功，【执行语句】:select XM,NJ,XZ,XY,XB,XH,XJZT,XL,XZB,ZYMC from XY_XSXX,【数据条数】:26709
+10:17:50  向我方插入新数据成功，【数据行数】:26709
+10:17:53  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_xsxx;
+end;
+10:17:54  获取对方原始数据成功，【执行语句】:select ZGH,BMDM,XM,XYMC,BMMC,XB from XY_JGXX,【数据条数】:2000
+10:17:54  向我方插入新数据成功，【数据行数】:2000
+10:17:54  【数据库操作异常】:列名 'CARDID' 无效。
+列名 'CARDID' 无效。
+10:17:54  我方临时表更新正式表失败，【执行语句】:begin 
+exec sp_update_jgxx;
+end;
+10:17:54  获取对方原始数据成功，【执行语句】:select BMFQID,BMMC,BMDM from XY_BMXBM,【数据条数】:589
+10:17:55  向我方插入新数据成功，【数据行数】:589
+10:17:55  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_dep_columns;
+exec updateDep;
+exec update_dt_user_dep;
+end;
+10:17:55  获取对方原始数据成功，【执行语句】:select XQMC,XQDM from XQDM,【数据条数】:16
+10:17:55  向我方插入新数据成功，【数据行数】:16
+10:17:55  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_ac_dep_columns;
+exec updateAC_Dep;
+exec updateAC_Dep_xydm;
+end;
+10:17:55  获取对方原始数据成功，【执行语句】:select XYDM,XYMC from XYDM,【数据条数】:20
+10:17:56  向我方插入新数据成功，【数据行数】:20
+10:17:56  获取对方原始数据成功，【执行语句】:select XN,N,R,XQ,NYR,Y,XQJ,DJZ from XLB,【数据条数】:1414
+10:17:56  向我方插入新数据成功，【数据行数】:1414
+10:17:58  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_xlb
+exec sp_update_SHID;
+end;
+10:17:58  获取对方原始数据成功，【执行语句】:select ZYDM,SSXYDM,ZYMC,ZYLB,XKLB,XYMC,XZ,XW,CC from ZYDM,【数据条数】:279
+10:17:58  向我方插入新数据成功，【数据行数】:279
+10:17:58  获取对方原始数据成功，【执行语句】:select BJDM,'',NJ,XYDM,SFBY,BJMC,XYMC,XZ,SSZYDM,CC from XY_BJ,【数据条数】:1423
+10:17:59  向我方插入新数据成功，【数据行数】:1423
+10:18:03  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_dep_columns;
+exec updateDep_Class;
+exec update_dt_user_dep;
+end;
+10:18:03  获取对方原始数据成功，【执行语句】:select LH,JSLB,CH,JSBH,XQDM,ZWS,JSMC,FH from JSDM,【数据条数】:1217
+10:18:03  向我方插入新数据成功，【数据行数】:1217
+10:18:04  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_jsdm;
+end;
+10:18:04  ---------任务【失败】结束，【任务编号】:20121105105205-------↑
+10:18:04  
+11:10:58  启动调度！
+11:12:30  启动调度！
+11:13:46  ------------任务开始，【任务编号】:20121105105205----------↓
+11:13:46  获取对方原始数据成功，【执行语句】:select BMFQID,BMMC,BMDM from XY_BMXBM,【数据条数】:589
+11:13:46  向我方插入新数据成功，【数据行数】:589
+11:13:48  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_dep_columns;
+exec updateDep;
+exec update_dt_user_dep;
+end;
+11:13:48  获取对方原始数据成功，【执行语句】:select XQMC,XQDM from XQDM,【数据条数】:16
+11:13:48  向我方插入新数据成功，【数据行数】:16
+11:13:48  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_ac_dep_columns;
+exec updateAC_Dep;
+exec updateAC_Dep_xydm;
+end;
+11:13:48  获取对方原始数据成功，【执行语句】:select XYDM,XYMC from XYDM,【数据条数】:20
+11:13:48  向我方插入新数据成功，【数据行数】:20
+11:13:48  获取对方原始数据成功，【执行语句】:select XN,N,R,XQ,NYR,Y,XQJ,DJZ from XLB,【数据条数】:1414
+11:13:49  向我方插入新数据成功，【数据行数】:1414
+11:13:51  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_xlb
+exec sp_update_SHID;
+end;
+11:13:51  获取对方原始数据成功，【执行语句】:select ZYDM,SSXYDM,ZYMC,ZYLB,XKLB,XYMC,XZ,XW,CC from ZYDM,【数据条数】:279
+11:13:51  向我方插入新数据成功，【数据行数】:279
+11:13:51  获取对方原始数据成功，【执行语句】:select BJDM,'',NJ,XYDM,SFBY,BJMC,XYMC,XZ,SSZYDM,CC from XY_BJ,【数据条数】:1423
+11:13:52  向我方插入新数据成功，【数据行数】:1423
+11:13:54  我方临时表更新正式表成功，【执行语句】:begin 
+exec update_dt_dep_columns;
+exec updateDep_Class;
+exec update_dt_user_dep;
+end;
+11:13:54  获取对方原始数据成功，【执行语句】:select LH,JSLB,CH,JSBH,XQDM,ZWS,JSMC,FH from JSDM,【数据条数】:1217
+11:13:55  向我方插入新数据成功，【数据行数】:1217
+11:13:55  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_jsdm;
+end;
+11:13:56  获取对方原始数据成功，【执行语句】:select XM,NJ,XZ,XY,XB,XH,XJZT,XL,XZB,ZYMC,CARDID from XY_XSXX,【数据条数】:26709
+11:14:11  向我方插入新数据成功，【数据行数】:26709
+11:14:13  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_xsxx;
+end;
+11:14:13  获取对方原始数据成功，【执行语句】:select ZGH,BMDM,XM,XYMC,BMMC,XB,CARDID from XY_JGXX,【数据条数】:2000
+11:14:14  向我方插入新数据成功，【数据行数】:2000
+11:14:15  我方临时表更新正式表成功，【执行语句】:begin 
+exec sp_update_jgxx;
+end;
+11:14:15  ---------任务【成功】结束，【任务编号】:20121105105205-------↑
+11:14:15  
+14:53:51  启动调度！

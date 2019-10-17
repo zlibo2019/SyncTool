@@ -1,0 +1,353 @@
+2018-10-18 17:32:27  开始调度
+2018-10-18 17:32:28 988 任务开始
+2018-10-18 17:32:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:32:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:32:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:32:43 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:32:43 988 任务开始
+2018-10-18 17:32:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:32:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:32:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:32:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:32:58 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:32:58 988 任务开始
+2018-10-18 17:33:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:13 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:33:13 988 任务开始
+2018-10-18 17:33:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:28 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:33:29 988 任务开始
+2018-10-18 17:33:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:43 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:33:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:44 988 任务开始
+2018-10-18 17:33:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:33:58 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:33:59 988 任务开始
+2018-10-18 17:34:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:14 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:34:14 988 任务开始
+2018-10-18 17:34:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:29 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:34:30 988 任务开始
+2018-10-18 17:34:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:44 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:34:45 988 任务开始
+2018-10-18 17:34:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:34:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:00 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:35:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:00 988 任务开始
+2018-10-18 17:35:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:15 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:35:15 988 任务开始
+2018-10-18 17:35:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:30 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:35:31 988 任务开始
+2018-10-18 17:35:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:45 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:35:46 988 任务开始
+2018-10-18 17:35:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:35:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:00 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:36:01 988 任务开始
+2018-10-18 17:36:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:16 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:36:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:16 988 任务开始
+2018-10-18 17:36:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:31 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:36:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:32 988 任务开始
+2018-10-18 17:36:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:46 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:36:47 988 任务开始
+2018-10-18 17:36:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:36:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:02 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:37:02 988 任务开始
+2018-10-18 17:37:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:17 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:37:17 988 任务开始
+2018-10-18 17:37:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:32 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:37:33 988 任务开始
+2018-10-18 17:37:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:47 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:37:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:48 988 任务开始
+2018-10-18 17:37:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:37:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:02 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:38:03 988 任务开始
+2018-10-18 17:38:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:18 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:38:18 988 任务开始
+2018-10-18 17:38:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:33 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:38:34 988 任务开始
+2018-10-18 17:38:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:48 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:38:49 988 任务开始
+2018-10-18 17:38:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:38:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:04 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:39:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:04 988 任务开始
+2018-10-18 17:39:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:19 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:39:19 988 任务开始
+2018-10-18 17:39:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:34 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:39:35 988 任务开始
+2018-10-18 17:39:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:49 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:39:50 988 任务开始
+2018-10-18 17:39:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:39:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:04 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:40:05 988 任务开始
+2018-10-18 17:40:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:20 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:40:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:20 988 任务开始
+2018-10-18 17:40:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:35 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:40:35 988 任务开始
+2018-10-18 17:40:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:50 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:40:51 988 任务开始
+2018-10-18 17:40:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:40:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:05 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:41:06 988 任务开始
+2018-10-18 17:41:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:21 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:41:21 988 任务开始
+2018-10-18 17:41:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:36 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:41:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:36 988 任务开始
+2018-10-18 17:41:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:51 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:41:52 988 任务开始
+2018-10-18 17:41:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:41:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:06 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:42:07 988 任务开始
+2018-10-18 17:42:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:21 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:42:22 988 任务开始
+2018-10-18 17:42:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:37 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:42:37 988 任务开始
+2018-10-18 17:42:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:52 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:42:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:42:52 988 任务开始
+2018-10-18 17:42:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:07 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:43:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:08 988 任务开始
+2018-10-18 17:43:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:22 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:43:23 988 任务开始
+2018-10-18 17:43:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:37 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:43:38 988 任务开始
+2018-10-18 17:43:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:43:53 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:43:53 988 任务开始
+2018-10-18 17:43:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:08 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:44:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:08 988 任务开始
+2018-10-18 17:44:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:23 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:44:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:24 988 任务开始
+2018-10-18 17:44:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:38 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:44:39 988 任务开始
+2018-10-18 17:44:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:44:54 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:44:54 988 任务开始
+2018-10-18 17:44:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:09 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:45:09 988 任务开始
+2018-10-18 17:45:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:24 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:45:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:25 988 任务开始
+2018-10-18 17:45:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:39 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:45:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:40 988 任务开始
+2018-10-18 17:45:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:45:54 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:45:55 988 任务开始
+2018-10-18 17:45:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:10 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:46:10 988 任务开始
+2018-10-18 17:46:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:25 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:46:25 988 任务开始
+2018-10-18 17:46:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:40 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:46:41 988 任务开始
+2018-10-18 17:46:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:55 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:46:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:46:56 988 任务开始
+2018-10-18 17:47:00 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:04 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:08 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:10 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:47:11 988 任务开始
+2018-10-18 17:47:12 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:16 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:20 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:24 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:26 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:47:26 988 任务开始
+2018-10-18 17:47:28 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:32 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:36 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:40 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:41 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:47:41 988 任务开始
+2018-10-18 17:47:44 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:48 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:52 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:56 988 【988】相同任务或其它互斥任务正在执行，当前任务加入等待列表!
+2018-10-18 17:47:56 988 SCM一卡通 中间表创建失败,[run sql]:if exists (select 1 from sysobjects where id = object_id('tmp_dt_dep') and type = 'U') drop table tmp_dt_dep create table tmp_dt_dep (dep_no_add varchar(50),dep_no_parent varchar(50),dep_name varchar(50),constraint PK_tmp_dt_dep primary key (dep_no_add,dep_no_parent,dep_name));
+2018-10-18 17:47:57 988 任务开始

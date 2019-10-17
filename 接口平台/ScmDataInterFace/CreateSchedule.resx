@@ -1,0 +1,2194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;pm2.Parent" xml:space="preserve">
+    <value>p3</value>
+  </data>
+  <data name="&gt;&gt;nm_date.Name" xml:space="preserve">
+    <value>nm_date</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_day.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;nm_dayinterval.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;nm_date.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;dt_end.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="w3.Text" xml:space="preserve">
+    <value>星期三</value>
+  </data>
+  <data name="&gt;&gt;rb_day_one.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_One.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pm1.Parent" xml:space="preserve">
+    <value>p3</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="dt_start.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 21</value>
+  </data>
+  <data name="&gt;&gt;cb_subday_type.Parent" xml:space="preserve">
+    <value>pweek</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;pweek.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="b_ok.Text" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>个月</value>
+  </data>
+  <data name="p1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 114</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>天</value>
+  </data>
+  <data name="b_cancel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>478, 3</value>
+  </data>
+  <data name="&gt;&gt;rb_monthday.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;w4.Name" xml:space="preserve">
+    <value>w4</value>
+  </data>
+  <data name="&gt;&gt;b_ok.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rdbfreq_week.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 16</value>
+  </data>
+  <data name="&gt;&gt;b_ok.Name" xml:space="preserve">
+    <value>b_ok</value>
+  </data>
+  <data name="&gt;&gt;label12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rd_nothing.Text" xml:space="preserve">
+    <value>无结束日期</value>
+  </data>
+  <data name="&gt;&gt;p_one.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rb_day_cycle.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>p_one</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>p2</value>
+  </data>
+  <data name="&gt;&gt;panel4.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;p_one.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rdbfreq_month.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;t_cmd.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_One.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="rbsdu_More.Text" xml:space="preserve">
+    <value>反复出现</value>
+  </data>
+  <data name="b_ok.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>17, 12</value>
+  </data>
+  <data name="rdbfreq_week.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 44</value>
+  </data>
+  <data name="btn_clear.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 23</value>
+  </data>
+  <data name="&gt;&gt;label18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;p3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>每</value>
+  </data>
+  <data name="&gt;&gt;w3.Parent" xml:space="preserve">
+    <value>p2</value>
+  </data>
+  <data name="dt_end.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="dt_start.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;cb_weeknum.Parent" xml:space="preserve">
+    <value>pm2</value>
+  </data>
+  <data name="&gt;&gt;time_one.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rb_interval.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="nm_wmonth_interval.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>说明：</value>
+  </data>
+  <data name="&gt;&gt;dt_one.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_autoexec.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="nm_week_interval.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 5</value>
+  </data>
+  <data name="btn_open.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 23</value>
+  </data>
+  <data name="w6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 58</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_More.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 28</value>
+  </data>
+  <data name="rbsdu_autoexec.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;rb_interval.Name" xml:space="preserve">
+    <value>rb_interval</value>
+  </data>
+  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 12</value>
+  </data>
+  <data name="rb_interval.Text" xml:space="preserve">
+    <value>第</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="b_ok.Location" type="System.Drawing.Point, System.Drawing">
+    <value>395, 3</value>
+  </data>
+  <data name="t_cmd.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_week.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 9</value>
+  </data>
+  <data name="&gt;&gt;time_day_one.Name" xml:space="preserve">
+    <value>time_day_one</value>
+  </data>
+  <data name="p_more.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="rdbfreq_day.Text" xml:space="preserve">
+    <value>每天</value>
+  </data>
+  <data name="&gt;&gt;time_end.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;w4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;t_description.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;rb_day_cycle.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="rb_monthday.Text" xml:space="preserve">
+    <value>第</value>
+  </data>
+  <data name="&gt;&gt;nm_wmonth_interval.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="nm_dmonth_interval.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="w3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>名称：</value>
+  </data>
+  <data name="&gt;&gt;p_more.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;b_ok.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_week.Name" xml:space="preserve">
+    <value>rdbfreq_week</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>CreateSchedule</value>
+  </data>
+  <data name="&gt;&gt;label15.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cb_week.Location" type="System.Drawing.Point, System.Drawing">
+    <value>61, 4</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label14.Name" xml:space="preserve">
+    <value>label14</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn_open.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="rbsdu_idle.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>时间：</value>
+  </data>
+  <data name="&gt;&gt;gp_freq.Parent" xml:space="preserve">
+    <value>p_more</value>
+  </data>
+  <data name="&gt;&gt;time_end.Name" xml:space="preserve">
+    <value>time_end</value>
+  </data>
+  <data name="&gt;&gt;r_before.Name" xml:space="preserve">
+    <value>r_before</value>
+  </data>
+  <data name="&gt;&gt;t_name.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="w5.Text" xml:space="preserve">
+    <value>星期五</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_idle.Name" xml:space="preserve">
+    <value>rbsdu_idle</value>
+  </data>
+  <data name="&gt;&gt;dt_end.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="&gt;&gt;w3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label10.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="pweek.Location" type="System.Drawing.Point, System.Drawing">
+    <value>90, 43</value>
+  </data>
+  <data name="r_before.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 16</value>
+  </data>
+  <data name="&gt;&gt;t_cmd.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="rdbfreq_week.Text" xml:space="preserve">
+    <value>每周</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="panel3" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="panel4" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="panel2" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="panel1" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Absolute,50,Absolute,430,Absolute,56,Absolute,44" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>，每</value>
+  </data>
+  <data name="&gt;&gt;label14.Parent" xml:space="preserve">
+    <value>pweek</value>
+  </data>
+  <data name="pm1.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="rdbfreq_day.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;dt_start.Name" xml:space="preserve">
+    <value>dt_start</value>
+  </data>
+  <data name="rbsdu_One.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 16</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_autoexec.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label11.Name" xml:space="preserve">
+    <value>label11</value>
+  </data>
+  <data name="&gt;&gt;r_last.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel3.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="label18.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;time_end.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;b_cancel.Name" xml:space="preserve">
+    <value>b_cancel</value>
+  </data>
+  <data name="&gt;&gt;rd_nothing.Name" xml:space="preserve">
+    <value>rd_nothing</value>
+  </data>
+  <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="rdbfreq_month.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="t_cmd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 14</value>
+  </data>
+  <data name="&gt;&gt;rb_day_cycle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;time_one.Name" xml:space="preserve">
+    <value>time_one</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 12</value>
+  </data>
+  <data name="&gt;&gt;label10.Name" xml:space="preserve">
+    <value>label10</value>
+  </data>
+  <data name="&gt;&gt;label11.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pm2.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btn_open.Location" type="System.Drawing.Point, System.Drawing">
+    <value>219, 14</value>
+  </data>
+  <data name="&gt;&gt;nm_day_interval.Name" xml:space="preserve">
+    <value>nm_day_interval</value>
+  </data>
+  <data name="cb_weeknum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 20</value>
+  </data>
+  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>80, 9</value>
+  </data>
+  <data name="p_one.Size" type="System.Drawing.Size, System.Drawing">
+    <value>393, 35</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;t_name.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_More.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label16.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="w7.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="btn_open.Text" xml:space="preserve">
+    <value>…</value>
+  </data>
+  <data name="time_one.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="label8.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;w7.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;w1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="b_cancel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="tableLayoutPanel1.RowCount" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn_clear.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAlwSFlzAAAK9gAA
+        CvYBwq9wAwAAAi1JREFUOE+dk72P0nAYx7lSEShwPSQIJy/laAu019JCy0uhLxQU2tLo+Se4GBfj7H6T
+        kzK4ODkYB2PiwmCcHE2MiYmLgy7uxsR4MXfx56+XwPE2XK7Jp83zfZ7n0zT51QcA8NmWJYxs693Iskzb
+        thAvOy++Xm/g7w+u34VPYPb7fxzbOXDGjn/TsKIa6O2DW3vD4Y37s8wToJA7mm5Om20V6MbgZDSyHrrO
+        soSsiMGObpqObR8ZhvlsLvBuUJCGtIzeYKp0daDpBrjpOm9cd4x5fbmlhoaW9VLVzWNZbj5ieCmyJJgB
+        JQHIA93oH2uaCcau+6Kt6LyiaBO12wW8KE1oRthe3FkSeHRUdUvXzQr8pE+NZgfU6o0jsV77STPc62KJ
+        C63OLxWLVAXJ4KvS37aiAr5a+0YUK/FNc2uBR12SCLq0/5njxX9QBCS5BRiW+7ppdi0Qa3KeLrNfoOCk
+        XGFfJZJpKZcnp4JYB1SJvbc6v1SUWS6VJYofcgUKwLe/T6d245FYDNuOJ7D8Hv1UEOq/KUbILu6cLQut
+        YK5AP09dK/za58QfLFdlZr0IjgdDISzGVcWP6QzxJFOg52dkLtjNEk4yRQCKZgFJlw9DWPT0DMxAUT8C
+        c5Ikqe9RfCdf4qTTI3/axPF4IJFIHsavXAV5ovg2GI7QkRi+9k/g+I6/0WhPsGhYLvHNM4FHJk/VLgUu
+        P/ZtIZofRaOzfBV4oQiChOf1YvMibAzPD/D9ByxsEeFpdyAmAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="&gt;&gt;w5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label16.Name" xml:space="preserve">
+    <value>label16</value>
+  </data>
+  <data name="b_cancel.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="time_one.Location" type="System.Drawing.Point, System.Drawing">
+    <value>251, 8</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_day.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 12</value>
+  </data>
+  <data name="&gt;&gt;label15.Parent" xml:space="preserve">
+    <value>pweek</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pm1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="w3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>148, 35</value>
+  </data>
+  <data name="&gt;&gt;panel3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="cb_week.Items3" xml:space="preserve">
+    <value>星期三</value>
+  </data>
+  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="pm2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>309, 31</value>
+  </data>
+  <data name="&gt;&gt;p_more.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="rbsdu_idle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>381, 42</value>
+  </data>
+  <data name="&gt;&gt;btn_clear.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nm_week_interval.Parent" xml:space="preserve">
+    <value>p2</value>
+  </data>
+  <data name="rdbfreq_week.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="groupBox5.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;gp_freq.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_clear.Name" xml:space="preserve">
+    <value>btn_clear</value>
+  </data>
+  <data name="rbsdu_More.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 75</value>
+  </data>
+  <data name="cb_weeknum.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 57</value>
+  </data>
+  <data name="r_before.Location" type="System.Drawing.Point, System.Drawing">
+    <value>376, 4</value>
+  </data>
+  <data name="&gt;&gt;nm_wmonth_interval.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>周，在</value>
+  </data>
+  <data name="rd_nothing.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_idle.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_One.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
+    <value>p_more</value>
+  </data>
+  <data name="cb_week.Items2" xml:space="preserve">
+    <value>星期二</value>
+  </data>
+  <data name="&gt;&gt;nm_wmonth_interval.Parent" xml:space="preserve">
+    <value>pm2</value>
+  </data>
+  <data name="&gt;&gt;btn_open.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="r_before.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="nm_dayinterval.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 21</value>
+  </data>
+  <data name="&gt;&gt;label10.Parent" xml:space="preserve">
+    <value>pm1</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>作业调度</value>
+  </data>
+  <data name="rdbfreq_week.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btn_open.Name" xml:space="preserve">
+    <value>btn_open</value>
+  </data>
+  <data name="pm2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>51, 42</value>
+  </data>
+  <data name="label12.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="time_day_one.Location" type="System.Drawing.Point, System.Drawing">
+    <value>102, 19</value>
+  </data>
+  <data name="&gt;&gt;t_cmd.Name" xml:space="preserve">
+    <value>t_cmd</value>
+  </data>
+  <data name="pm2.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="&gt;&gt;p1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_autoexec.Name" xml:space="preserve">
+    <value>rbsdu_autoexec</value>
+  </data>
+  <data name="&gt;&gt;label13.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cb_subday_type.Items" xml:space="preserve">
+    <value>小时</value>
+  </data>
+  <data name="t_name.Location" type="System.Drawing.Point, System.Drawing">
+    <value>64, 12</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="rb_day_cycle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 16</value>
+  </data>
+  <data name="&gt;&gt;pm1.Name" xml:space="preserve">
+    <value>pm1</value>
+  </data>
+  <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>587, 579</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="&gt;&gt;label8.Parent" xml:space="preserve">
+    <value>p2</value>
+  </data>
+  <data name="&gt;&gt;dt_one.Name" xml:space="preserve">
+    <value>dt_one</value>
+  </data>
+  <data name="t_description.Size" type="System.Drawing.Size, System.Drawing">
+    <value>307, 21</value>
+  </data>
+  <data name="&gt;&gt;pm2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label13.Name" xml:space="preserve">
+    <value>label13</value>
+  </data>
+  <data name="&gt;&gt;nm_dmonth_interval.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label18.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="p_one.Location" type="System.Drawing.Point, System.Drawing">
+    <value>144, 25</value>
+  </data>
+  <data name="&gt;&gt;label16.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;label18.Name" xml:space="preserve">
+    <value>label18</value>
+  </data>
+  <data name="&gt;&gt;pm1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="nm_day_interval.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 21</value>
+  </data>
+  <data name="p2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>436, 95</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;rb_day_one.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cb_weeknum.Text" xml:space="preserve">
+    <value>一个</value>
+  </data>
+  <data name="&gt;&gt;pm2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="groupBox5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 217</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>日期：</value>
+  </data>
+  <data name="t_description.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="r_last.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="gp_freq.Size" type="System.Drawing.Size, System.Drawing">
+    <value>433, 100</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>起始于：</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 12</value>
+  </data>
+  <data name="r_last.Text" xml:space="preserve">
+    <value>后台执行</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;p_one.Name" xml:space="preserve">
+    <value>p_one</value>
+  </data>
+  <data name="w4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="w3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbsdu_autoexec.Location" type="System.Drawing.Point, System.Drawing">
+    <value>381, 29</value>
+  </data>
+  <data name="dt_one.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 21</value>
+  </data>
+  <data name="&gt;&gt;nm_dayinterval.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rb_monthday.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 12</value>
+  </data>
+  <data name="&gt;&gt;btn_open.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="rbsdu_autoexec.Text" xml:space="preserve">
+    <value>当开机时自动启动</value>
+  </data>
+  <data name="label14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>293, 8</value>
+  </data>
+  <data name="&gt;&gt;nm_week_interval.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;w6.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="rdbfreq_month.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 16</value>
+  </data>
+  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="groupBox1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;nm_dmonth_interval.Name" xml:space="preserve">
+    <value>nm_dmonth_interval</value>
+  </data>
+  <data name="p3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 712</value>
+  </data>
+  <data name="cb_subday_type.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 20</value>
+  </data>
+  <data name="w6.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="p1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>427, 80</value>
+  </data>
+  <data name="&gt;&gt;time_day_cycle.Name" xml:space="preserve">
+    <value>time_day_cycle</value>
+  </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="rdbfreq_day.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 21</value>
+  </data>
+  <data name="time_end.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 21</value>
+  </data>
+  <data name="&gt;&gt;nm_day_interval.Parent" xml:space="preserve">
+    <value>pweek</value>
+  </data>
+  <data name="rbsdu_autoexec.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;label12.Parent" xml:space="preserve">
+    <value>pm2</value>
+  </data>
+  <data name="nm_wmonth_interval.Location" type="System.Drawing.Point, System.Drawing">
+    <value>194, 4</value>
+  </data>
+  <data name="&gt;&gt;btn_clear.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="nm_date.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>590, 581</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>110, 28</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>17, 12</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>577, 44</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>调度类型</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>101, 9</value>
+  </data>
+  <data name="r_before.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label13.Parent" xml:space="preserve">
+    <value>pm2</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="rb_day_one.Text" xml:space="preserve">
+    <value>一次发生于：</value>
+  </data>
+  <data name="&gt;&gt;t_description.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;dt_one.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 547</value>
+  </data>
+  <data name="label14.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;nm_week_interval.Name" xml:space="preserve">
+    <value>nm_week_interval</value>
+  </data>
+  <data name="pweek.Size" type="System.Drawing.Size, System.Drawing">
+    <value>455, 51</value>
+  </data>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>发生频率</value>
+  </data>
+  <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>556, 100</value>
+  </data>
+  <data name="&gt;&gt;rb_monthday.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;b_cancel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cb_week.Items" xml:space="preserve">
+    <value>星期日</value>
+  </data>
+  <data name="&gt;&gt;label18.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="&gt;&gt;r_last.Name" xml:space="preserve">
+    <value>r_last</value>
+  </data>
+  <data name="pweek.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="rb_day_cycle.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;p_more.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;r_before.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;time_one.Parent" xml:space="preserve">
+    <value>p_one</value>
+  </data>
+  <data name="label13.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="w2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 17</value>
+  </data>
+  <data name="cb_subday_type.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_month.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 12</value>
+  </data>
+  <data name="&gt;&gt;rd_nothing.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="panel4.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>17, 12</value>
+  </data>
+  <data name="groupBox4.Text" xml:space="preserve">
+    <value>每日频率</value>
+  </data>
+  <data name="&gt;&gt;nm_day_interval.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;p1.Name" xml:space="preserve">
+    <value>p1</value>
+  </data>
+  <data name="rd_end.Location" type="System.Drawing.Point, System.Drawing">
+    <value>361, 24</value>
+  </data>
+  <data name="&gt;&gt;w5.Parent" xml:space="preserve">
+    <value>p2</value>
+  </data>
+  <data name="&gt;&gt;w3.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;b_cancel.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;dt_start.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="time_end.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="cb_week.Items1" xml:space="preserve">
+    <value>星期一</value>
+  </data>
+  <data name="&gt;&gt;nm_dayinterval.Name" xml:space="preserve">
+    <value>nm_dayinterval</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="r_last.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 16</value>
+  </data>
+  <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>264, 8</value>
+  </data>
+  <data name="r_last.Location" type="System.Drawing.Point, System.Drawing">
+    <value>375, 25</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 12</value>
+  </data>
+  <data name="label18.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;rd_nothing.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;p2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBox5.Text" xml:space="preserve">
+    <value>持续时间</value>
+  </data>
+  <data name="p_more.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="w2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="&gt;&gt;w2.Parent" xml:space="preserve">
+    <value>p2</value>
+  </data>
+  <data name="label18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 12</value>
+  </data>
+  <data name="cb_week.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 20</value>
+  </data>
+  <data name="&gt;&gt;time_one.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 12</value>
+  </data>
+  <data name="rbsdu_More.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="time_day_one.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 21</value>
+  </data>
+  <data name="&gt;&gt;p2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_week.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="w5.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="w1.Text" xml:space="preserve">
+    <value>星期一</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;time_day_one.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;w2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="time_end.Location" type="System.Drawing.Point, System.Drawing">
+    <value>357, 29</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>每</value>
+  </data>
+  <data name="&gt;&gt;nm_day_interval.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;panel4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;rd_end.Name" xml:space="preserve">
+    <value>rd_end</value>
+  </data>
+  <data name="rb_day_cycle.Text" xml:space="preserve">
+    <value>发生周期：</value>
+  </data>
+  <data name="w5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="&gt;&gt;btn_clear.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="rb_monthday.Size" type="System.Drawing.Size, System.Drawing">
+    <value>35, 16</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="w7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="&gt;&gt;rb_interval.Parent" xml:space="preserve">
+    <value>p3</value>
+  </data>
+  <data name="cb_week.Items6" xml:space="preserve">
+    <value>星期六</value>
+  </data>
+  <data name="&gt;&gt;cb_week.Parent" xml:space="preserve">
+    <value>pm2</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="time_day_cycle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 21</value>
+  </data>
+  <data name="&gt;&gt;p_more.Name" xml:space="preserve">
+    <value>p_more</value>
+  </data>
+  <data name="&gt;&gt;t_description.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;w7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rb_monthday.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="dt_start.Location" type="System.Drawing.Point, System.Drawing">
+    <value>96, 22</value>
+  </data>
+  <data name="rd_end.Text" xml:space="preserve">
+    <value>结束日期：</value>
+  </data>
+  <data name="label7.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btn_open.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;t_description.Name" xml:space="preserve">
+    <value>t_description</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rbsdu_One.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 34</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+    <value>p_more</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>中止于：</value>
+  </data>
+  <data name="w1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 35</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;w1.Name" xml:space="preserve">
+    <value>w1</value>
+  </data>
+  <data name="p3.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="rbsdu_idle.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;w5.Name" xml:space="preserve">
+    <value>w5</value>
+  </data>
+  <data name="nm_day_interval.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="t_name.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="pm1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>309, 28</value>
+  </data>
+  <data name="&gt;&gt;label8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="w4.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="r_last.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;t_cmd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rb_day_cycle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 44</value>
+  </data>
+  <data name="&gt;&gt;rb_monthday.Parent" xml:space="preserve">
+    <value>p3</value>
+  </data>
+  <data name="rbsdu_More.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;cb_week.Name" xml:space="preserve">
+    <value>cb_week</value>
+  </data>
+  <data name="rb_interval.Size" type="System.Drawing.Size, System.Drawing">
+    <value>35, 16</value>
+  </data>
+  <data name="nm_dayinterval.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 24</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;p3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="nm_dmonth_interval.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 21</value>
+  </data>
+  <data name="w1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="nm_day_interval.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 4</value>
+  </data>
+  <data name="&gt;&gt;nm_date.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nm_dmonth_interval.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rd_end.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cb_week.Items7" xml:space="preserve">
+    <value>天</value>
+  </data>
+  <data name="rbsdu_autoexec.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 16</value>
+  </data>
+  <data name="&gt;&gt;nm_wmonth_interval.Name" xml:space="preserve">
+    <value>nm_wmonth_interval</value>
+  </data>
+  <data name="rdbfreq_month.Text" xml:space="preserve">
+    <value>每月</value>
+  </data>
+  <data name="&gt;&gt;pm2.Name" xml:space="preserve">
+    <value>pm2</value>
+  </data>
+  <data name="p_one.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;gp_freq.Name" xml:space="preserve">
+    <value>gp_freq</value>
+  </data>
+  <data name="tableLayoutPanel1.ColumnCount" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 12</value>
+  </data>
+  <data name="w2.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;p3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rbsdu_autoexec.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="cb_weeknum.Items2" xml:space="preserve">
+    <value>三个</value>
+  </data>
+  <data name="cb_weeknum.Items3" xml:space="preserve">
+    <value>四个</value>
+  </data>
+  <data name="cb_weeknum.Items1" xml:space="preserve">
+    <value>两个</value>
+  </data>
+  <data name="cb_weeknum.Items4" xml:space="preserve">
+    <value>末一个</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>天，每</value>
+  </data>
+  <data name="&gt;&gt;w5.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;b_ok.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;dt_end.Name" xml:space="preserve">
+    <value>dt_end</value>
+  </data>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>577, 424</value>
+  </data>
+  <data name="&gt;&gt;time_day_cycle.Parent" xml:space="preserve">
+    <value>pweek</value>
+  </data>
+  <data name="&gt;&gt;dt_start.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="rd_nothing.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;p2.Name" xml:space="preserve">
+    <value>p2</value>
+  </data>
+  <data name="&gt;&gt;r_before.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="rd_end.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;label15.Name" xml:space="preserve">
+    <value>label15</value>
+  </data>
+  <data name="&gt;&gt;label8.Name" xml:space="preserve">
+    <value>label8</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.Name" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="rbsdu_More.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 16</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_autoexec.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label8.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>211, 16</value>
+  </data>
+  <data name="nm_wmonth_interval.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 21</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_day.Name" xml:space="preserve">
+    <value>rdbfreq_day</value>
+  </data>
+  <data name="r_before.Text" xml:space="preserve">
+    <value>前台执行</value>
+  </data>
+  <data name="&gt;&gt;rb_interval.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="gp_freq.Location" type="System.Drawing.Point, System.Drawing">
+    <value>127, 7</value>
+  </data>
+  <data name="&gt;&gt;t_name.Name" xml:space="preserve">
+    <value>t_name</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>p1</value>
+  </data>
+  <data name="&gt;&gt;label12.Name" xml:space="preserve">
+    <value>label12</value>
+  </data>
+  <data name="&gt;&gt;pweek.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="cb_week.Items4" xml:space="preserve">
+    <value>星期四</value>
+  </data>
+  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 12</value>
+  </data>
+  <data name="&gt;&gt;rd_end.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="&gt;&gt;cb_week.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="p2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Name" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="label13.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 12</value>
+  </data>
+  <data name="groupBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="w2.Text" xml:space="preserve">
+    <value>星期二</value>
+  </data>
+  <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 12</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>p1</value>
+  </data>
+  <data name="rbsdu_idle.Text" xml:space="preserve">
+    <value>每当CPU空闲时启动</value>
+  </data>
+  <data name="&gt;&gt;time_day_cycle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dt_start.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_More.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 489</value>
+  </data>
+  <data name="&gt;&gt;label11.Parent" xml:space="preserve">
+    <value>pm1</value>
+  </data>
+  <data name="panel3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="cb_weeknum.Items" xml:space="preserve">
+    <value>一个</value>
+  </data>
+  <data name="rb_day_one.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 21</value>
+  </data>
+  <data name="cb_week.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="t_name.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 21</value>
+  </data>
+  <data name="p_more.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 111</value>
+  </data>
+  <data name="b_cancel.Text" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="p1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 17</value>
+  </data>
+  <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="&gt;&gt;rb_day_cycle.Name" xml:space="preserve">
+    <value>rb_day_cycle</value>
+  </data>
+  <data name="nm_week_interval.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="dt_end.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="w4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>216, 35</value>
+  </data>
+  <data name="rbsdu_One.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="time_day_cycle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>357, 4</value>
+  </data>
+  <data name="&gt;&gt;w4.Parent" xml:space="preserve">
+    <value>p2</value>
+  </data>
+  <data name="&gt;&gt;dt_one.Parent" xml:space="preserve">
+    <value>p_one</value>
+  </data>
+  <data name="btn_clear.Location" type="System.Drawing.Point, System.Drawing">
+    <value>248, 14</value>
+  </data>
+  <data name="cb_week.Items5" xml:space="preserve">
+    <value>星期五</value>
+  </data>
+  <data name="&gt;&gt;w2.Name" xml:space="preserve">
+    <value>w2</value>
+  </data>
+  <data name="pm1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>51, 6</value>
+  </data>
+  <data name="&gt;&gt;nm_dayinterval.Parent" xml:space="preserve">
+    <value>p1</value>
+  </data>
+  <data name="&gt;&gt;w7.Parent" xml:space="preserve">
+    <value>p2</value>
+  </data>
+  <data name="&gt;&gt;w6.Name" xml:space="preserve">
+    <value>w6</value>
+  </data>
+  <data name="&gt;&gt;w6.Parent" xml:space="preserve">
+    <value>p2</value>
+  </data>
+  <data name="panel3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rb_day_one.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 16</value>
+  </data>
+  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>211, 9</value>
+  </data>
+  <data name="&gt;&gt;panel3.Name" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;nm_dmonth_interval.Parent" xml:space="preserve">
+    <value>pm1</value>
+  </data>
+  <data name="cb_subday_type.Location" type="System.Drawing.Point, System.Drawing">
+    <value>73, 4</value>
+  </data>
+  <data name="dt_end.Location" type="System.Drawing.Point, System.Drawing">
+    <value>450, 22</value>
+  </data>
+  <data name="label6.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rd_nothing.Location" type="System.Drawing.Point, System.Drawing">
+    <value>361, 49</value>
+  </data>
+  <data name="r_before.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rdbfreq_day.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 16</value>
+  </data>
+  <data name="dt_end.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 21</value>
+  </data>
+  <data name="&gt;&gt;panel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cb_subday_type.Text" xml:space="preserve">
+    <value>小时</value>
+  </data>
+  <data name="t_cmd.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label11.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="label10.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;cb_weeknum.Name" xml:space="preserve">
+    <value>cb_weeknum</value>
+  </data>
+  <data name="&gt;&gt;cb_subday_type.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.Parent" xml:space="preserve">
+    <value>p_more</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="t_description.Location" type="System.Drawing.Point, System.Drawing">
+    <value>258, 12</value>
+  </data>
+  <data name="rb_interval.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="time_day_cycle.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="b_ok.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label15.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="cb_subday_type.Items1" xml:space="preserve">
+    <value>分钟</value>
+  </data>
+  <data name="cb_subday_type.Items2" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="rdbfreq_day.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;p1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="time_one.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 21</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;panel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_One.Name" xml:space="preserve">
+    <value>rbsdu_One</value>
+  </data>
+  <data name="&gt;&gt;label14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>p_one</value>
+  </data>
+  <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 1</value>
+  </data>
+  <data name="&gt;&gt;p3.Name" xml:space="preserve">
+    <value>p3</value>
+  </data>
+  <data name="&gt;&gt;dt_end.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="w5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>284, 35</value>
+  </data>
+  <data name="tableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;time_day_cycle.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="w2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>80, 35</value>
+  </data>
+  <data name="label12.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 16</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>577, 424</value>
+  </data>
+  <data name="rb_monthday.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_idle.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label16.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_More.Name" xml:space="preserve">
+    <value>rbsdu_More</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>190, 12</value>
+  </data>
+  <data name="&gt;&gt;nm_date.Parent" xml:space="preserve">
+    <value>pm1</value>
+  </data>
+  <data name="&gt;&gt;nm_week_interval.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="nm_date.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 21</value>
+  </data>
+  <data name="label18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 26</value>
+  </data>
+  <data name="nm_week_interval.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 21</value>
+  </data>
+  <data name="rbsdu_One.Text" xml:space="preserve">
+    <value>一次</value>
+  </data>
+  <data name="gp_freq.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;p1.Parent" xml:space="preserve">
+    <value>gp_freq</value>
+  </data>
+  <data name="&gt;&gt;label11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="time_day_one.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="rbsdu_One.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel1.CellBorderStyle" type="System.Windows.Forms.TableLayoutPanelCellBorderStyle, System.Windows.Forms">
+    <value>Inset</value>
+  </data>
+  <data name="&gt;&gt;r_last.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="nm_dmonth_interval.Location" type="System.Drawing.Point, System.Drawing">
+    <value>135, 5</value>
+  </data>
+  <data name="rb_day_one.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;rb_interval.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 12</value>
+  </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
+  <data name="label11.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="gp_freq.Text" xml:space="preserve">
+    <value>发生频率</value>
+  </data>
+  <data name="&gt;&gt;rbsdu_idle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_month.Name" xml:space="preserve">
+    <value>rdbfreq_month</value>
+  </data>
+  <data name="&gt;&gt;time_day_one.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="p1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>命令：</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;w1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="t_cmd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 21</value>
+  </data>
+  <data name="&gt;&gt;w1.Parent" xml:space="preserve">
+    <value>p2</value>
+  </data>
+  <data name="&gt;&gt;w2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>577, 50</value>
+  </data>
+  <data name="t_description.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="w7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>79, 58</value>
+  </data>
+  <data name="w4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="groupBox5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>556, 81</value>
+  </data>
+  <data name="rb_day_cycle.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="w5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="w6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="panel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>577, 33</value>
+  </data>
+  <data name="&gt;&gt;w3.Name" xml:space="preserve">
+    <value>w3</value>
+  </data>
+  <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>293, 33</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_month.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="p_more.Size" type="System.Drawing.Size, System.Drawing">
+    <value>566, 306</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 7</value>
+  </data>
+  <data name="&gt;&gt;w7.Name" xml:space="preserve">
+    <value>w7</value>
+  </data>
+  <data name="&gt;&gt;w6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;r_last.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pweek.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel4.Name" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="w6.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;cb_subday_type.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="w4.Text" xml:space="preserve">
+    <value>星期四</value>
+  </data>
+  <data name="&gt;&gt;rb_day_one.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rd_nothing.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 16</value>
+  </data>
+  <data name="btn_clear.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;rd_end.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 12</value>
+  </data>
+  <data name="&gt;&gt;b_cancel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label14.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="rdbfreq_month.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 67</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;rb_day_one.Name" xml:space="preserve">
+    <value>rb_day_one</value>
+  </data>
+  <data name="dt_one.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 8</value>
+  </data>
+  <data name="cb_week.Items8" xml:space="preserve">
+    <value>工作日</value>
+  </data>
+  <data name="w7.Text" xml:space="preserve">
+    <value>星期日</value>
+  </data>
+  <data name="&gt;&gt;t_name.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pweek.Name" xml:space="preserve">
+    <value>pweek</value>
+  </data>
+  <data name="&gt;&gt;rd_nothing.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="nm_date.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 5</value>
+  </data>
+  <data name="&gt;&gt;gp_freq.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="w3.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="rb_day_one.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 12</value>
+  </data>
+  <data name="pweek.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;p_one.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 100</value>
+  </data>
+  <data name="&gt;&gt;label10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="p2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 611</value>
+  </data>
+  <data name="t_name.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Off</value>
+  </data>
+  <data name="label15.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>157, 8</value>
+  </data>
+  <data name="w6.Text" xml:space="preserve">
+    <value>星期六</value>
+  </data>
+  <data name="rb_interval.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 49</value>
+  </data>
+  <data name="rbsdu_idle.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;p2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="r_last.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_day.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;time_end.Parent" xml:space="preserve">
+    <value>pweek</value>
+  </data>
+  <data name="label16.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;time_day_one.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_week.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;cb_weeknum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdbfreq_month.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="w1.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;cb_week.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rd_end.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 16</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>个月</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 5</value>
+  </data>
+  <data name="&gt;&gt;cb_subday_type.Name" xml:space="preserve">
+    <value>cb_subday_type</value>
+  </data>
+  <data name="&gt;&gt;label16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;w4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cb_weeknum.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="dt_one.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="cb_week.Items9" xml:space="preserve">
+    <value>休息日</value>
+  </data>
+  <data name="nm_dayinterval.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="cb_week.Text" xml:space="preserve">
+    <value>星期日</value>
+  </data>
+  <data name="cb_weeknum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 4</value>
+  </data>
+  <data name="&gt;&gt;r_before.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>开始日期：</value>
+  </data>
+  <data name="rbsdu_idle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 16</value>
+  </data>
+  <data name="w1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="p3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>436, 92</value>
+  </data>
+  <data name="&gt;&gt;rb_monthday.Name" xml:space="preserve">
+    <value>rb_monthday</value>
+  </data>
+  <data name="w7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rd_end.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>en</value>
+  </metadata>
+</root>

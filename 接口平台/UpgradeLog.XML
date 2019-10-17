@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ScmDataInterFace">
+</Property><Property Name="解决方案文件" Value="D:\项目文件\通用接口同步程序\通用接口\ScmDataInterFace.sln">
+</Property><Property Name="Date" Value="2013年5月27日">
+</Property><Property Name="Time" Value="15:29">
+</Property></Properties><Event ErrorLevel="1" Project="ScmDataInterFace" Source="ScmDataInterFace\ScmDataInterFace.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="ScmDataInterFace" Source="ScmDataInterFace\ScmDataInterFace.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="ScmDataInterFace" Source="ScmDataInterFace\ScmDataInterFace.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ScmDataInterFace.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="ScmDataInterFace.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ScmDataInterFace" Source="ScmDataInterFace\ScmDataInterFace.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="1" Project="ScmDataInterFace" Source="ScmDataInterFace\ScmDataInterFace.csproj" Description="未能找到在“Release (x86)”配置的 CodeAnalysisRuleAssemblies 中指定的规则程序集或目录“C:\Program Files (x86)\Microsoft Visual Studio 8\Team Tools\Static Analysis Tools\FxCop\\rules”。某些规则可能不会迁移到相应的规则集。">
+</Event><Event ErrorLevel="0" Project="ScmDataInterFace" Source="ScmDataInterFace\ScmDataInterFace.csproj" Description="已为“Release (x86)”配置创建规则集文件“D:\项目文件\通用接口同步程序\通用接口\ScmDataInterFace\Migrated rules for ScmDataInterFace.ruleset”。">
+</Event></UpgradeLog>

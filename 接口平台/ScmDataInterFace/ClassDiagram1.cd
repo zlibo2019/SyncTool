@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ScmDataInterFace.frmLogin" Collapsed="true">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAIACAAiBEAAACAAAAGIAAAAgAAAAAAAAAAAIA=</HashCode>
+      <FileName>frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.Form4" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAQAAACAgABAAAACBAAACAACAAgAAAABAAEAAUAA=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.BaseForm" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAQAAAAADCAgAASAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.TaskManager" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoIBAMCAAAIQAAAAAAABCABAgAAAAAABAAABBAAABQ=</HashCode>
+      <FileName>BaseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.ColumnTypeDefine" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAABACAAAgAAAACACAgSBAAwAAAAAIAAAIAAACA=</HashCode>
+      <FileName>ColumnTypeDefine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.CreateSchedule" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wBRIQIACCItwRQhAA2pzBQ21A0MU4QIniYOAYAAgDI=</HashCode>
+      <FileName>CreateSchedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.SQLServerDBop" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAJAAQAAAABAAEBAAAQAAACAAAAERAAAIAAAAAA=</HashCode>
+      <FileName>DBop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.OracleDBop" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAABAAEBAAAAAAACAAAAEQAAAIAAAAAA=</HashCode>
+      <FileName>DBop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.AccessDBop" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAACACBAAEAAQAAAAAAABAAEQAAAAAAAAEA=</HashCode>
+      <FileName>DBop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.MySqlDBop" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAABAAEAAAAAAAACAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>DBop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.EditForm" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAEkAiAiAAANQABCrCiCAGBICMRAQABAAiQ4AABDI=</HashCode>
+      <FileName>EditForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.Form1" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACAAACAAAACAAgAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.FrmCompareTable" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HDxRsI2KAHLaEBOJGECUCAATgYABR4oBCGQAsQRZJQI=</HashCode>
+      <FileName>FrmCompareTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.FrmExecTask" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAJAAAECACAACDAQBAIAABAwAAZAAECA=</HashCode>
+      <FileName>FrmExecTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.FrmFieldTranse" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAkiBGCwEhEAAECQAAADAAAZAgIwAGgKExEgACA=</HashCode>
+      <FileName>FrmFieldTranse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.FrmMain" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>//exevU26PzC2du+Ovf5+rlD7t+7/d6uyvh/j2b/Z/s=</HashCode>
+      <FileName>FrmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.FrmSetPhoto" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/4iBwxQMATDAQBCAAASJ2ogGBAAIBSAYBiAkQYBlRDI=</HashCode>
+      <FileName>FrmSetPhoto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.FrmShowSql" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAABAAAECAAAADAAAIAAAAAEAAAQAAACA=</HashCode>
+      <FileName>FrmShowSql.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.FrmTableTranse" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HAAAAACiBGAEMBAgAIyQgCYDQAIYJCAAAGQCIQAIEzM=</HashCode>
+      <FileName>FrmTableTranse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.Program" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAIAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.ApplicationSetting" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgAgAAAAAAAABAAAAAAAAAAEAABAAAA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.Miscellaneous" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAADAQAAAAAAAAAIAAAAGAAAAACAAAQAAAABAAAAAA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.Project" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wVBMIAIAgABwREAoAJJSAOKEFAAgiEOogIggogAFeIA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.CurrentForm" Collapsed="true">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAABAAAAAEAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.CurrentFlow" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAEAAAAABBAQpAAgAAAAAAACCAAAAAQBCA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.ScheduleManager" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABABAAAEAAKAAAASAAAgACABABEAAAAEBAAAAAAA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.DataGridStyle" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.DataBaseManager" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAACAAAAAAIAQAAAAAACAAAA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.ExcelHelper" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgASAAAFAAgBgAAAAABAAIAAAAASIAEAAAAAAAAAA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.IniFiles" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACBAQAAABAAAAQAgMgAAQAAACAEQAAACAAAABAAAA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.WSHelper" Collapsed="true">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.HttpHelper" Collapsed="true">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.ConfigHelper" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAgAAAABAIAA=</HashCode>
+      <FileName>PublicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.frmSelectMdbFile" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAIABACAAAACAAAAAACAgIAAAIgABAA=</HashCode>
+      <FileName>SelectMdb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.SelectTable" Collapsed="true">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAkAAADCCAACRAAAAAAABAAEgoEAAAA=</HashCode>
+      <FileName>SelectTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.ShowInfo" Collapsed="true">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAgQAACQAAAKAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ShowInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.Test" Collapsed="true">
+    <Position X="1" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIAAgCABBAMAIACEMAASAAgAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.UserCombobox" Collapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACQABAAAAICAAgAChAQCAAAAAEBAAAAAAAQ=</HashCode>
+      <FileName>UserCombobox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.Properties.Resources" Collapsed="true">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAABECAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScmDataInterFace.Properties.Settings" Collapsed="true">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

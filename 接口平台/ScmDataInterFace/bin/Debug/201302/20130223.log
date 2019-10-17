@@ -1,0 +1,52 @@
+8:33:01  启动调度！
+9:20:34  【数据库操作异常】:ORA-12154: TNS: 无法解析指定的连接标识符
+
+9:22:41  【数据库操作异常】:ORA-12154: TNS: 无法解析指定的连接标识符
+
+9:22:54  【数据库操作异常】:ORA-12154: TNS: 无法解析指定的连接标识符
+
+10:28:45  【数据库操作异常】:表 'IF_Task' 己经被别的用户以独占方式打开， 或它已经被其它用户从用户界面打开，且不能被程序处理。
+10:28:45  启动调度！
+10:28:58  启动调度！
+10:31:13  ------------任务开始，【任务编号】:20130223103026----------↓
+10:31:13  【数据库操作异常】:ExecuteReader: CommandText 属性尚未初始化
+10:31:13  获取对方原始数据成功，【执行语句】:select user_serial,user_no,user_lname,user_fname,dep_no,user_dep,user_ac,user_depname,user_workday,user_duty,user_card,user_finger,user_password,pwd_begin,pwd_end,user_type,pact_begin,pact_end,user_level,user_photo,user_sex,user_nation,user_xueli,user_native,user_birthday,user_id,user_post,user_linkman,user_telephone,user_address,user_email,user_1,user_2,user_bz,kq_rule,kq_taoban,kq_tiaoxiu,xf_time,xf_jiange,xf_je,user_sj,user_rank,gly_img from dt_user ,【数据条数】:756
+10:31:15  向我方插入新数据成功，【数据行数】:756
+10:31:15  我方临时表更新正式表成功，【执行语句】:begin 
+delete from  dt_user  where not exists  ( select * from tmp_dt_user where tmp_dt_user.user_serial = dt_user.user_serial ); 
+
+update dt_user set dt_user.user_serial = tmp_dt_user.user_serial,dt_user.user_no = tmp_dt_user.user_no,dt_user.user_lname = tmp_dt_user.user_lname,dt_user.user_fname = tmp_dt_user.user_fname,dt_user.dep_no = tmp_dt_user.dep_no,dt_user.user_dep = tmp_dt_user.user_dep from dt_user inner join tmp_dt_user on tmp_dt_user.user_serial = dt_user.user_serial; 
+
+insert into dt_user(user_serial,user_no,user_lname,user_fname,dep_no,user_dep)  select user_serial,user_no,user_lname,user_fname,dep_no,user_dep from  tmp_dt_user  where not exists  ( select * from dt_user where tmp_dt_user.user_serial = dt_user.user_serial ); 
+end;
+10:31:15  ---------任务【成功】结束，【任务编号】:20130223103026-------↑
+10:31:15  
+10:31:50  ------------任务开始，【任务编号】:20130223103026----------↓
+10:31:50  【数据库操作异常】:ExecuteReader: CommandText 属性尚未初始化
+10:31:50  获取对方原始数据成功，【执行语句】:select user_serial,user_no,user_lname,user_fname,dep_no,user_dep,user_ac,user_depname,user_workday,user_duty,user_card,user_finger,user_password,pwd_begin,pwd_end,user_type,pact_begin,pact_end,user_level,user_photo,user_sex,user_nation,user_xueli,user_native,user_birthday,user_id,user_post,user_linkman,user_telephone,user_address,user_email,user_1,user_2,user_bz,kq_rule,kq_taoban,kq_tiaoxiu,xf_time,xf_jiange,xf_je,user_sj,user_rank,gly_img from dt_user ,【数据条数】:756
+10:31:52  向我方插入新数据成功，【数据行数】:756
+10:31:52  我方临时表更新正式表成功，【执行语句】:begin 
+delete from  dt_user  where not exists  ( select * from tmp_dt_user where tmp_dt_user.user_serial = dt_user.user_serial ); 
+
+update dt_user set dt_user.user_serial = tmp_dt_user.user_serial,dt_user.user_no = tmp_dt_user.user_no,dt_user.user_lname = tmp_dt_user.user_lname,dt_user.user_fname = tmp_dt_user.user_fname,dt_user.dep_no = tmp_dt_user.dep_no,dt_user.user_dep = tmp_dt_user.user_dep from dt_user inner join tmp_dt_user on tmp_dt_user.user_serial = dt_user.user_serial; 
+
+insert into dt_user(user_serial,user_no,user_lname,user_fname,dep_no,user_dep)  select user_serial,user_no,user_lname,user_fname,dep_no,user_dep from  tmp_dt_user  where not exists  ( select * from dt_user where tmp_dt_user.user_serial = dt_user.user_serial ); 
+end;
+10:31:52  ---------任务【成功】结束，【任务编号】:20130223103026-------↑
+10:31:52  
+10:33:28  ------------任务开始，【任务编号】:20130223103026----------↓
+10:33:29  获取我方原始数据成功，【执行语句】:select user_serial,user_no,user_lname,user_fname,dep_no,user_dep,user_ac,user_depname,user_workday,user_duty,user_card,user_finger,user_password,pwd_begin,pwd_end,user_type,pact_begin,pact_end,user_level,user_photo,user_sex,user_nation,user_xueli,user_native,user_birthday,user_id,user_post,user_linkman,user_telephone,user_address,user_email,user_1,user_2,user_bz,kq_rule,kq_taoban,kq_tiaoxiu,xf_time,xf_jiange,xf_je,user_sj,user_rank,gly_img from tmp_dt_user ,【数据条数】:756
+10:33:30  向对方插入数据成功，【数据行数】:756
+10:33:30  ---------任务【成功】结束，【任务编号】:20130223103026-------↑
+10:33:30  
+10:33:48  ------------任务开始，【任务编号】:20130223103026----------↓
+10:33:48  获取我方原始数据成功，【执行语句】:select user_serial,user_no,user_lname,user_fname,dep_no,user_dep,user_ac,user_depname,user_workday,user_duty,user_card,user_finger,user_password,pwd_begin,pwd_end,user_type,pact_begin,pact_end,user_level,user_photo,user_sex,user_nation,user_xueli,user_native,user_birthday,user_id,user_post,user_linkman,user_telephone,user_address,user_email,user_1,user_2,user_bz,kq_rule,kq_taoban,kq_tiaoxiu,xf_time,xf_jiange,xf_je,user_sj,user_rank,gly_img from tmp_dt_user ,【数据条数】:756
+10:33:49  向对方插入数据成功，【数据行数】:756
+10:33:49  ---------任务【成功】结束，【任务编号】:20130223103026-------↑
+10:33:49  
+10:36:12  启动调度！
+10:39:47  启动调度！
+10:46:44  启动调度！
+10:47:24  启动调度！
+11:37:33  启动调度！
+11:39:03  启动调度！

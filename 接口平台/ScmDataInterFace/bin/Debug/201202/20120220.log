@@ -1,0 +1,16 @@
+9:23:32  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2012-2013' and Term_id = '2',【数据条数】:260875
+9:25:34  向我方插入新数据成功，【数据行数】:260875
+9:38:06  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2009-2010' and Term_id = '2',【数据条数】:285773
+9:40:23  向我方插入新数据成功，【数据行数】:285773
+9:56:03  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2010-2011' and Term_id = '2',【数据条数】:339685
+9:58:49  向我方插入新数据成功，【数据行数】:339685
+10:16:25  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2011-2012' and Term_id = '2',【数据条数】:333427
+10:20:00  向我方插入新数据成功，【数据行数】:333427
+10:23:52  【数据库操作异常】:ORA-03135: 连接失去联系
+
+10:23:52  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2012-2013' and Term_id = '1'
+10:23:53  【数据库操作异常】:ORA-03114: 未连接到 ORALCE
+
+10:23:53  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2011-2012' and Term_id = '1'
+10:23:53  ---------任务【失败】结束，【任务编号】:20121214133735-------↑
+10:23:53  

@@ -1,0 +1,41 @@
+﻿16:29:55  ------------任务开始，【任务编号】:20121214133735----------↓
+16:34:34  【数据库操作异常】:ORA-03135: 连接失去联系
+
+16:34:34  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2009-2010' and Term_id = '1'
+16:34:34  【数据库操作异常】:ORA-03114: 未连接到 ORALCE
+
+16:34:34  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2010-2011' and Term_id = '1'
+16:36:02  【数据库操作异常】:ORA-03135: 连接失去联系
+
+16:36:02  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2012-2013' and Term_id = '2'
+16:42:29  【数据库操作异常】:ORA-03135: 连接失去联系
+
+16:42:29  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2009-2010' and Term_id = '2'
+16:43:47  启动调度！
+16:44:05  ------------任务开始，【任务编号】:20121214133735----------↓
+17:02:15  【数据库操作异常】:ORA-03135: 连接失去联系
+
+17:02:15  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2009-2010' and Term_id = '1'
+17:02:15  【数据库操作异常】:ORA-03114: 未连接到 ORALCE
+
+17:02:15  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2010-2011' and Term_id = '1'
+17:14:36  【数据库操作异常】:ORA-03135: 连接失去联系
+
+17:14:36  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2012-2013' and Term_id = '2'
+17:14:36  【数据库操作异常】:ORA-03114: 未连接到 ORALCE
+
+17:14:36  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2009-2010' and Term_id = '2'
+17:36:31  【数据库操作异常】:ORA-03135: 连接失去联系
+
+17:36:31  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2010-2011' and Term_id = '2'
+17:36:31  【数据库操作异常】:ORA-03114: 未连接到 ORALCE
+
+17:36:31  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2011-2012' and Term_id = '2'
+17:59:25  【数据库操作异常】:ORA-03135: 连接失去联系
+
+17:59:25  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2012-2013' and Term_id = '1'
+17:59:25  【数据库操作异常】:ORA-03114: 未连接到 ORALCE
+
+17:59:25  获取对方原始数据出错，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2011-2012' and Term_id = '1'
+17:59:25  ---------任务【失败】结束，【任务编号】:20121214133735-------↑
+17:59:25  

@@ -1,0 +1,7 @@
+8:33:06  ------------任务开始，【任务编号】:20121214133735----------↓
+8:48:34  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2009-2010' and Term_id = '1',【数据条数】:310211
+8:51:55  向我方插入新数据成功，【数据行数】:310211
+9:08:38  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2010-2011' and Term_id = '1',【数据条数】:373774
+9:11:36  向我方插入新数据成功，【数据行数】:373774
+15:14:26  启动调度！
+16:43:36  启动调度！

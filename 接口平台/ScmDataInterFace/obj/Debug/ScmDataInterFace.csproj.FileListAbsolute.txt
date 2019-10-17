@@ -1,0 +1,52 @@
+D:\项目文件\通用接口同步程序\通用接口\ScmDataInterFace\bin\Debug\ScmDataInterFace.exe.config
+D:\项目文件\通用接口同步程序\通用接口\ScmDataInterFace\obj\Debug\ScmDataInterFace.exe
+D:\项目文件\通用接口同步程序\通用接口\ScmDataInterFace\obj\Debug\ScmDataInterFace.pdb
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\bin\Debug\ScmDataInterFace.exe.config
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.exe
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.pdb
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\bin\Debug\ScmDataInterFace.exe
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\bin\Debug\ScmDataInterFace.pdb
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.BaseForm.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.ColumnTypeDefine.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.CreateSchedule.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.EditForm.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.Form1.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.Form4.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmExecTask.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmFieldTranse.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.frmLogin.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmSetPhoto.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmShowSql.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmTableTranse.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmCompareTable.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmMain.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.Properties.Resources.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.frmSelectMdbFile.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.SelectTable.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.ShowInfo.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.Test.resources
+D:\项目文件\通用接口同步程序\通用接口 - 升级\ScmDataInterFace\obj\Debug\ScmDataInterFace.csproj.GenerateResource.Cache
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\bin\Debug\ScmDataInterFace.exe.config
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.exe
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.pdb
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.csprojResolveAssemblyReference.cache
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.BaseForm.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.ColumnTypeDefine.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.CreateSchedule.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.EditForm.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.Form1.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.Form4.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmExecTask.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmFieldTranse.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.frmLogin.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmSetPhoto.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmShowSql.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmTableTranse.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmCompareTable.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.FrmMain.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.Properties.Resources.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.frmSelectMdbFile.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.SelectTable.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.ShowInfo.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.Test.resources
+E:\项目文件\通用接口同步程序\接口平台\ScmDataInterFace\obj\Debug\ScmDataInterFace.csproj.GenerateResource.Cache

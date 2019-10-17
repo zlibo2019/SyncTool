@@ -1,0 +1,27 @@
+8:15:49  ------------任务开始，【任务编号】:20121214133735----------↓
+8:24:49  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2009-2010' and Term_id = '1',【数据条数】:310211
+8:28:16  向我方插入新数据成功，【数据行数】:310211
+8:41:28  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2010-2011' and Term_id = '1',【数据条数】:373774
+8:44:26  向我方插入新数据成功，【数据行数】:373774
+8:52:37  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2012-2013' and Term_id = '2',【数据条数】:260796
+8:54:42  向我方插入新数据成功，【数据行数】:260796
+9:03:44  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2009-2010' and Term_id = '2',【数据条数】:285773
+9:06:00  向我方插入新数据成功，【数据行数】:285773
+9:16:37  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2010-2011' and Term_id = '2',【数据条数】:339685
+9:19:19  向我方插入新数据成功，【数据行数】:339685
+9:29:35  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2011-2012' and Term_id = '2',【数据条数】:333427
+9:32:18  向我方插入新数据成功，【数据行数】:333427
+9:55:43  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2012-2013' and Term_id = '1',【数据条数】:528346
+10:00:47  向我方插入新数据成功，【数据行数】:528346
+10:31:02  获取对方原始数据成功，【执行语句】:select Year,Term_id,Class_id,student_no,Teacher_no,Sub_name,Room_name,Xqj,Zc from tmp_tkq_rank  where Year = '2011-2012' and Term_id = '1',【数据条数】:360378
+10:34:32  向我方插入新数据成功，【数据行数】:360378
+10:40:58  我方临时表更新正式表成功，【执行语句】:begin 
+exec updateAC_Dep_Head;
+exec sp_update_rank;
+exec sp_update_sub;
+exec sp_update_TKQ_TEACH_SUB;
+exec sp_update_tkq_rank;
+exec sp_update_room;
+end;
+10:40:58  ---------任务【成功】结束，【任务编号】:20121214133735-------↑
+10:40:58  
